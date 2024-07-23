@@ -9,6 +9,16 @@
     max-width: 1230px;
 
 }
+.header-utilities {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-nav__link {
+    text-decoration: none;
+    color: #fff;
+}
+
 
 .header__logo {
     color: #fff;
